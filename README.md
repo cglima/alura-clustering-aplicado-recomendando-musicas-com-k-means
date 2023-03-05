@@ -10,6 +10,12 @@ Neste curso, vamos:
 
 ## Dataset
 
+- [Web API - Spotify](https://developer.spotify.com/documentation/web-api/)
+
+- Dados gerais de músicas
+- Dados relacionados à gêneros
+- Dados relacionados aos anos
+
 ## Ambiente de desenvolvimento
 
 1. Criar e ativar o ambiente virtual.
